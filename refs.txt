@@ -1,0 +1,280 @@
+REFERENCES
+[1] Peter W Shor. Polynomial-time algorithms for prime factorization and
+discrete logarithms on a quantum computer. SIAM review,
+41(2):303–332, 1999.
+[2] Lov K Grover. A fast quantum mechanical algorithm for database
+search. In Proceedings of the twenty-eighth annual ACM symposium
+on Theory of computing, pages 212–219, 1996.
+[3] Michael A Nielsen and Isaac Chuang. Quantum computation and
+quantum information, 2002.
+[4] Kenneth R Brown, Jungsang Kim, and Christopher Monroe.
+Co-designing a scalable quantum computer with trapped atomic ions.
+npj Quantum Information, 2(1):1–10, 2016.
+[5] Colin D Bruzewicz, John Chiaverini, Robert McConnell, and
+Jeremy M Sage. Trapped-ion quantum computing: Progress and
+challenges. Applied Physics Reviews, 6(2):021314, 2019.
+[6] Colin D Bruzewicz, John Chiaverini, Robert McConnell, and
+Jeremy M Sage. Trapped-ion quantum computing: Progress and
+challenges. Applied Physics Reviews, 6(2):021314, 2019.
+[7] Markus Brink, Jerry M Chow, Jared Hertzberg, Easwar Magesan, and
+Sami Rosenblatt. Device challenges for near term superconducting
+quantum processors: frequency collisions. In 2018 IEEE International
+Electron Devices Meeting (IEDM), pages 6–1. IEEE, 2018.
+[8] Matteo Pompili, Sophie LN Hermans, Simon Baier, Hans KC Beukers,
+Peter C Humphreys, Raymond N Schouten, Raymond FL Vermeulen,
+Marijn J Tiggelman, Laura dos Santos Martins, Bas Dirkse, et al.
+Realization of a multinode quantum network of remote solid-state
+qubits. Science, 372(6539):259–264, 2021.
+[9] J. Gambetta. Ibm’s roadmap for scaling quantum technology.
+https://www.ibm.com/blogs/research/2020/09/ibm-
+quantum-roadmap/.
+[10] C. Monroe, R. Raussendorf, A. Ruthven, K. R. Brown, P. Maunz,
+L.-M. Duan, and J. Kim. Large scale modular quantum computer
+architecture with atomic memory and photonic interconnects. Physical
+Review A, 62(5):052317, 2000.
+[11] Jonathan M. Baker, Casey Duckering, Alexander Hoover, and
+Frederic T. Chong. Time-sliced quantum circuit partitioning for
+modular architectures. Proceedings of the 17th ACM International
+Conference on Computing Frontiers, 2020.
+[12] Christopher Young, Akbar Safari, Preston Huft, J. Zhang, Eun Oh,
+Ravikumar Chinnarasu, and Mark Saffman. An architecture for
+quantum networking of neutral atom processors. 2022.
+[13] Anocha Yimsiriwattana and Samuel J Lomonaco Jr. Generalized ghz
+states and distributed quantum computing. arXiv preprint
+quant-ph/0402148, 2004.
+[14] Jens Eisert, Kurt Jacobs, Polykarpos Papadopoulos, and Martin B
+Plenio. Optimal local implementation of nonlocal quantum gates.
+Physical Review A, 62(5):052317, 2000.
+[15] Davide Ferrari, Angela Sara Cacciapuoti, Michele Amoretti, and
+Marcello Caleffi. Compiler design for distributed quantum computing.
+IEEE Transactions on Quantum Engineering, 2:1–20, 2021.
+[16] Gushu Li, Yufei Ding, and Yuan Xie. Tackling the qubit mapping
+problem for nisq-era quantum devices. Proceedings of the
+Twenty-Fourth International Conference on Architectural Support for
+Programming Languages and Operating Systems, 2019.
+[17] MD SAJID ANIS, Héctor Abraham, AduOffei, Rochisha Agarwal,
+Gabriele Agliardi, Merav Aharoni, Ismail Yunus Akhalwaya, Gadi
+Aleksandrowicz, Thomas Alexander, Matthew Amy, Sashwat
+Anagolum, Eli Arbel, Abraham Asfaw, Anish Athalye, Artur
+Avkhadiev, Carlos Azaustre, PRATHAMESH BHOLE, Abhik
+Banerjee, Santanu Banerjee, Will Bang, Aman Bansal, Panagiotis
+Barkoutsos, Ashish Barnawal, George Barron, George S. Barron,
+Luciano Bello, Yael Ben-Haim, M. Chandler Bennett, Daniel
+Bevenius, Dhruv Bhatnagar, Arjun Bhobe, Paolo Bianchini, Lev S.
+Bishop, Carsten Blank, Sorin Bolos, Soham Bopardikar, Samuel
+Bosch, Sebastian Brandhofer, Brandon, Sergey Bravyi, Nick Bronn,
+Bryce-Fuller, David Bucher, Artemiy Burov, Fran Cabrera, Padraic
+Calpin, Lauren Capelluto, Jorge Carballo, Ginés Carrascal, Adam
+Carriker, Ivan Carvalho, Adrian Chen, Chun-Fu Chen, Edward Chen,
+Jielun (Chris) Chen, Richard Chen, Franck Chevallier, Kartik Chinda,
+Rathish Cholarajan, Jerry M. Chow, Spencer Churchill, CisterMoke,
+Christian Claus, Christian Clauss, Caleb Clothier, Romilly Cocking,
+Ryan Cocuzzo, Jordan Connor, Filipe Correa, Abigail J. Cross,
+Andrew W. Cross, Simon Cross, Juan Cruz-Benito, Chris Culver,
+Antonio D. Córcoles-Gonzales, Navaneeth D, Sean Dague, Tareq El
+Dandachi, Animesh N Dangwal, Jonathan Daniel, Marcus Daniels,
+Matthieu Dartiailh, Abdón Rodríguez Davila, Faisal Debouni, Anton
+Dekusar, Amol Deshmukh, Mohit Deshpande, Delton Ding, Jun Doi,
+Eli M. Dow, Eric Drechsler, Eugene Dumitrescu, Karel Dumon, Ivan
+Duran, Kareem EL-Safty, Eric Eastman, Grant Eberle, Amir Ebrahimi,
+Pieter Eendebak, Daniel Egger, ElePT, Emilio, Alberto Espiricueta,
+Mark Everitt, Davide Facoetti, Farida, Paco Martín Fernández,
+Samuele Ferracin, Davide Ferrari, Axel Hernández Ferrera, Romain
+Fouilland, Albert Frisch, Andreas Fuhrer, Bryce Fuller, MELVIN
+GEORGE, Julien Gacon, Borja Godoy Gago, Claudio Gambella,
+Jay M. Gambetta, Adhisha Gammanpila, Luis Garcia, Tanya Garg,
+Shelly Garion, James R. Garrison, Tim Gates, Leron Gil, Austin
+Gilliam, Aditya Giridharan, Juan Gomez-Mosquera, Gonzalo,
+Salvador de la Puente González, Jesse Gorzinski, Ian Gould, Donny
+Greenberg, Dmitry Grinko, Wen Guan, Dani Guijo, John A. Gunnels,
+Harshit Gupta, Naman Gupta, Jakob M. Günther, Mikael Haglund,
+Isabel Haide, Ikko Hamamura, Omar Costa Hamido, Frank Harkins,
+Kevin Hartman, Areeq Hasan, Vojtech Havlicek, Joe Hellmers, Łukasz
+Herok, Stefan Hillmich, Hiroshi Horii, Connor Howington, Shaohan
+Hu, Wei Hu, Junye Huang, Rolf Huisman, Haruki Imai, Takashi
+Imamichi, Kazuaki Ishizaki, Ishwor, Raban Iten, Toshinari Itoko,
+Alexander Ivrii, Ali Javadi, Ali Javadi-Abhari, Wahaj Javed, Qian
+Jianhua, Madhav Jivrajani, Kiran Johns, Scott Johnstun,
+Jonathan-Shoemaker, JosDenmark, JoshDumo, John Judge, Tal
+Kachmann, Akshay Kale, Naoki Kanazawa, Jessica Kane, Kang-Bae,
+Annanay Kapila, Anton Karazeev, Paul Kassebaum, Josh Kelso, Scott
+Kelso, Vismai Khanderao, Spencer King, Yuri Kobayashi, Kovi11Day,
+Arseny Kovyrshin, Rajiv Krishnakumar, Vivek Krishnan, Kevin
+Krsulich, Prasad Kumkar, Gawel Kus, Ryan LaRose, Enrique Lacal,
+Raphaël Lambert, Haggai Landa, John Lapeyre, Joe Latone, Scott
+Lawrence, Christina Lee, Gushu Li, Jake Lishman, Dennis Liu, Peng
+Liu, Abhishek K M, Liam Madden, Yunho Maeng, Saurav Maheshkar,
+Kahan Majmudar, Aleksei Malyshev, Mohamed El Mandouh, Joshua
+Manela, Manjula, Jakub Marecek, Manoel Marques, Kunal Marwaha,
+Dmitri Maslov, Paweł Maszota, Dolph Mathews, Atsushi Matsuo,
+Farai Mazhandu, Doug McClure, Maureen McElaney, Cameron
+McGarry, David McKay, Dan McPherson, Srujan Meesala, Dekel
+Meirom, Corey Mendell, Thomas Metcalfe, Martin Mevissen, Andrew
+Meyer, Antonio Mezzacapo, Rohit Midha, Daniel Miller, Zlatko
+12
+Minev, Abby Mitchell, Nikolaj Moll, Alejandro Montanez, Gabriel
+Monteiro, Michael Duane Mooring, Renier Morales, Niall Moran,
+David Morcuende, Seif Mostafa, Mario Motta, Romain Moyard,
+Prakash Murali, Jan Müggenburg, Tristan NEMOZ, David Nadlinger,
+Ken Nakanishi, Giacomo Nannicini, Paul Nation, Edwin Navarro,
+Yehuda Naveh, Scott Wyman Neagle, Patrick Neuweiler, Aziz
+Ngoueya, Johan Nicander, Nick-Singstock, Pradeep Niroula, Hassi
+Norlen, NuoWenLei, Lee James O’Riordan, Oluwatobi Ogunbayo,
+Pauline Ollitrault, Tamiya Onodera, Raul Otaolea, Steven Oud, Dan
+Padilha, Hanhee Paik, Soham Pal, Yuchen Pang, Ashish Panigrahi,
+Vincent R. Pascuzzi, Simone Perriello, Eric Peterson, Anna Phan,
+Kuba Pilch, Francesco Piro, Marco Pistoia, Christophe Piveteau, Julia
+Plewa, Pierre Pocreau, Alejandro Pozas-Kerstjens, Rafał Pracht, Milos
+Prokop, Viktor Prutyanov, Sumit Puri, Daniel Puzzuoli, Jesús Pérez,
+Quant02, Quintiii, Rafey Iqbal Rahman, Arun Raja, Roshan Rajeev,
+Isha Rajput, Nipun Ramagiri, Anirudh Rao, Rudy Raymond, Oliver
+Reardon-Smith, Rafael Martín-Cuevas Redondo, Max Reuter, Julia
+Rice, Matt Riedemann, Rietesh, Drew Risinger, Marcello La Rocca,
+Diego M. Rodríguez, RohithKarur, Ben Rosand, Max Rossmannek,
+Mingi Ryu, Tharrmashastha SAPV, Nahum Rosa Cruz Sa, Arijit Saha,
+Abdullah Ash-Saki, Sankalp Sanand, Martin Sandberg, Hirmay
+Sandesara, Ritvik Sapra, Hayk Sargsyan, Aniruddha Sarkar, Ninad
+Sathaye, Bruno Schmitt, Chris Schnabel, Zachary Schoenfeld,
+Travis L. Scholten, Eddie Schoute, Mark Schulterbrandt, Joachim
+Schwarm, James Seaward, Sergi, Ismael Faro Sertage, Kanav Setia,
+Freya Shah, Nathan Shammah, Rohan Sharma, Yunong Shi, Jonathan
+Shoemaker, Adenilton Silva, Andrea Simonetto, Deeksha Singh,
+Divyanshu Singh, Parmeet Singh, Phattharaporn Singkanipa, Yukio
+Siraichi, Siri, Jesús Sistos, Iskandar Sitdikov, Seyon Sivarajah,
+Magnus Berg Sletfjerding, John A. Smolin, Mathias Soeken,
+Igor Olegovich Sokolov, Igor Sokolov, Vicente P. Soloviev,
+SooluThomas, Starfish, Dominik Steenken, Matt Stypulkoski, Adrien
+Suau, Shaojun Sun, Kevin J. Sung, Makoto Suwama, Oskar Słowik,
+Hitomi Takahashi, Tanvesh Takawale, Ivano Tavernelli, Charles Taylor,
+Pete Taylour, Soolu Thomas, Kevin Tian, Mathieu Tillet, Maddy Tod,
+Miroslav Tomasik, Caroline Tornow, Enrique de la Torre, Juan
+Luis Sánchez Toural, Kenso Trabing, Matthew Treinish, Dimitar
+Trenev, TrishaPe, Felix Truger, Georgios Tsilimigkounakis, Davindra
+Tulsi, Wes Turner, Yotam Vaknin, Carmen Recio Valcarce, Francois
+Varchon, Adish Vartak, Almudena Carrera Vazquez, Prajjwal
+Vijaywargiya, Victor Villar, Bhargav Vishnu, Desiree Vogt-Lee,
+Christophe Vuillot, James Weaver, Johannes Weidenfeller, Rafal
+Wieczorek, Jonathan A. Wildstrom, Jessica Wilson, Erick Winston,
+WinterSoldier, Jack J. Woehr, Stefan Woerner, Ryan Woo,
+Christopher J. Wood, Ryan Wood, Steve Wood, James Wootton, Matt
+Wright, Lucy Xing, Jintao YU, Bo Yang, Unchun Yang, Daniyar
+Yeralin, Ryota Yonekura, David Yonge-Mallo, Ryuhei Yoshida,
+Richard Young, Jessie Yu, Lebin Yu, Christopher Zachow, Laura
+Zdanski, Helena Zhang, Iulia Zidaru, and Christa Zoufal. Qiskit: An
+open-source framework for quantum computing, 2021.
+[18] Matthew Amy and Vlad Gheorghiu. staq—a full-stack quantum
+processing toolkit. arXiv: Quantum Physics, 2019.
+[19] Nader Khammassi, Imran Ashraf, J. van Someren, R˘azvan Nane,
+A. M. Krol, M. A. Rol, Lingling Lao, Koen Bertels, and
+Carmen Garcia Almudever. Openql : A portable quantum
+programming framework for quantum accelerators. ACM J. Emerg.
+Technol. Comput. Syst., 18:13:1–13:24, 2022.
+[20] Seyon Sivarajah, Silas Dilkes, Alexander Cowtan, Will Simmons,
+Alec Edgington, and Ross Duncan. t|ket〉: a retargetable compiler for
+nisq devices. Quantum Science and Technology, 2020.
+[21] Stephen Diadamo, Marco Ghibaudi, and James R. Cruise. Distributed
+quantum computing and network control for accelerated vqe. IEEE
+Transactions on Quantum Engineering, 2:1–21, 2021.
+[22] Nemanja Isailovic, Yatish Patel, Mark Whitney, and John Kubiatowicz.
+Interconnection networks for scalable quantum computers. In 33rd
+International Symposium on Computer Architecture (ISCA’06), pages
+366–377. IEEE, 2006.
+[23] David L Moehring, Peter Maunz, Steve Olmschenk, Kelly C Younge,
+Dzmitry N Matsukevich, L-M Duan, and Christopher Monroe.
+Entanglement of single-atom quantum bits at a distance. Nature,
+449(7158):68–71, 2007.
+[24] Stephan Ritter, Christian Nölleke, Carolin Hahn, Andreas Reiserer,
+Andreas Neuzner, Manuel Uphoff, Martin Mücke, Eden Figueroa,
+Joerg Bochmann, and Gerhard Rempe. An elementary quantum
+network of single atoms in optical cavities. Nature,
+484(7393):195–200, 2012.
+[25] Julian Hofmann, Michael Krug, Norbert Ortegel, Lea Gérard, Markus
+Weber, Wenjamin Rosenfeld, and Harald Weinfurter. Heralded
+entanglement between widely separated atoms. Science,
+337(6090):72–75, 2012.
+[26] LJ Stephenson, DP Nadlinger, BC Nichol, S An, P Drmota,
+TG Ballance, K Thirumalai, JF Goodwin, DM Lucas, and CJ Ballance.
+High-rate, high-fidelity entanglement of qubits across an elementary
+quantum network. Physical review letters, 124(11):110501, 2020.
+[27] Hannes Bernien, Bas Hensen, Wolfgang Pfaff, Gerwin Koolstra,
+Machiel S Blok, Lucio Robledo, Tim H Taminiau, Matthew Markham,
+Daniel J Twitchen, Lilian Childress, et al. Heralded entanglement
+between solid-state qubits separated by three metres. Nature,
+497(7447):86–90, 2013.
+[28] Peter C Humphreys, Norbert Kalb, Jaco PJ Morits, Raymond N
+Schouten, Raymond FL Vermeulen, Daniel J Twitchen, Matthew
+Markham, and Ronald Hanson. Deterministic delivery of remote
+entanglement on a quantum network. Nature, 558(7709):268–273,
+2018.
+[29] Aymeric Delteil, Zhe Sun, Wei-bo Gao, Emre Togan, Stefan Faelt, and
+Ataç Imamo˘glu. Generation of heralded entanglement between distant
+hole spins. Nature Physics, 12(3):218–223, 2016.
+[30] Robert Stockill, MJ Stanley, Lukas Huthmacher, E Clarke, M Hugues,
+AJ Miller, C Matthiesen, Claire Le Gall, and Mete Atatüre.
+Phase-tuned entangled state generation between distant spin qubits.
+Physical review letters, 119(1):010503, 2017.
+[31] P Maunz, S Olmschenk, D Hayes, DN Matsukevich, L-M Duan, and
+C Monroe. Heralded quantum gate between remote quantum
+memories. Physical review letters, 102(25):250502, 2009.
+[32] Severin Daiss, Stefan Langenfeld, Stephan Welte, Emanuele Distante,
+Philip Thomas, Lukas Hartung, Olivier Morin, and Gerhard Rempe. A
+quantum-logic gate between distant quantum-network modules.
+Science, 371(6529):614–617, 2021.
+[33] Norbert Kalb, Andreas A Reiserer, Peter C Humphreys, Jacob JW
+Bakermans, Sten J Kamerling, Naomi H Nickerson, Simon C
+Benjamin, Daniel J Twitchen, Matthew Markham, and Ronald Hanson.
+Entanglement distillation between solid-state quantum network nodes.
+Science, 356(6341):928–932, 2017.
+[34] Daniele Cuomo, Marcello Caleffi, Kevin Krsulich, Filippo Tramonto,
+Gabriele Agliardi, Enrico Prati, and Angela Sara Cacciapuoti.
+Optimized compiler for distributed quantum computing. ArXiv,
+abs/2112.14139, 2021.
+[35] Maarten Van Steen and A Tanenbaum. Distributed systems principles
+and paradigms. Network, 2:28, 2002.
+[36] R. Wille, D. Große, L. Teuber, G. W. Dueck, and R. Drechsler. RevLib:
+An online resource for reversible functions and reversible circuits. In
+Int’l Symp. on Multi-Valued Logic, pages 220–225, 2008. RevLib is
+available at http://www.revlib.org.
+[37] Edward Farhi, Jeffrey Goldstone, and Sam Gutmann. A quantum
+approximate optimization algorithm. arXiv: Quantum Physics, 2014.
+[38] Yun Seong Nam, Neil J. Ross, Yuan Su, Andrew M. Childs, and
+Dmitrii L. Maslov. Automated optimization of large quantum circuits
+with continuous parameters. npj Quantum Information, 4:1–12, 2017.
+[39] Roberto Sanchez Correa and Jean Pierre David. Ultra-low latency
+communication channels for fpga-based hpc cluster. Integration,
+63:41–55, 2018.
+[40] Wei Tang, Teague Tomesh, Martin Suchara, Jeffrey Larson, and
+Margaret Martonosi. Cutqc: using small quantum computers for large
+quantum circuit evaluations. In Proceedings of the 26th ACM
+International Conference on Architectural Support for Programming
+Languages and Operating Systems, pages 473–486, 2021.
+[41] Mihir Pant, Hari Krovi, Don Towsley, Leandros Tassiulas, Liang Jiang,
+Prithwish Basu, Dirk Englund, and Saikat Guha. Routing
+entanglement in the quantum internet. npj Quantum Information,
+5(1):1–9, 2019.
+[42] Kaushik Chakraborty, Filip Rozpedek, Axel Dahlberg, and Stephanie
+Wehner. Distributed routing in a quantum internet. arXiv preprint
+arXiv:1907.11630, 2019.
+[43] Frederik Hahn, A Pappa, and Jens Eisert. Quantum network routing
+and local complementation. npj Quantum Information, 5(1):1–7, 2019.
+[44] Changhao Li, Tianyi Li, Yi-Xiang Liu, and Paola Cappellaro.
+Effective routing design for remote entanglement generation on
+quantum networks. npj Quantum Information, 7(1):1–12, 2021.
+13
+[45] H-J Briegel, Wolfgang Dür, Juan I Cirac, and Peter Zoller. Quantum
+repeaters: the role of imperfect local operations in quantum
+communication. Physical Review Letters, 81(26):5932, 1998.
+[46] L-M Duan, Mikhail D Lukin, J Ignacio Cirac, and Peter Zoller.
+Long-distance quantum communication with atomic ensembles and
+linear optics. Nature, 414(6862):413–418, 2001.
+[47] Lilian Childress, JM Taylor, Anders Søndberg Sørensen, and
+Mikhail D Lukin. Fault-tolerant quantum repeaters with minimal
+physical resources and implementations based on single-photon
+emitters. Physical Review A, 72(5):052330, 2005.
+[48] Nicolas Sangouard, Christoph Simon, Hugues De Riedmatten, and
+Nicolas Gisin. Quantum repeaters based on atomic ensembles and
+linear optics. Reviews of Modern Physics, 83(1):33, 2011.
+[49] Sreraman Muralidharan, Linshu Li, Jungsang Kim, Norbert
+Lütkenhaus, Mikhail D Lukin, and Liang Jiang. Optimal architectures
+for long distance quantum communication. Scientific reports,
+6(1):1–10, 2016
